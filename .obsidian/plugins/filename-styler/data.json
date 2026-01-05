@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "【JP】suffix": {
+      "idFormat": "12",
+      "idDisplayMode": "hide",
+      "showCustomSuffix": true,
+      "customSuffix": "【JP】",
+      "customColor": "#4b0082",
+      "enableCustomColor": false,
+      "onlyEnabledFolders": true,
+      "enabledFolders": [],
+      "showCustomPrefix": false,
+      "customPrefix": "[Z] ",
+      "showCustomFileIcon": false,
+      "customFileIcon": "🧠"
+    }
+  },
+  "activeProfiles": []
+}

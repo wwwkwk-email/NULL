@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "2fbf5cd9116e2fe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1863a110a88cae35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f521e6bfb8801fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/GLITCH/GLITCH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GLITCH"
+            }
+          },
+          {
+            "id": "dc6a95b26055701d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. ARCHIVE/MISC/CLTCHRAIN/TRASH/Slam Storage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slam Storage"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93665989b6767d68",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b863b94e41e30d6d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "12863e48e5d293ba",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "491c73973e1d842c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d543e01fdb0e104b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "e071fa492e84a3d9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "8a472a00427c9b01",
+        "type": "leaf",
+        "state": {
+          "type": "trash-explorer",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "trash-explorer"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fc13efa885345808",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7ed3db3a2c0c68ea",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e78ddf9023994cee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "PUSH ー SINGULARITY.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "06d89258b56b6381",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "【ENGLISH MEDIA】/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/MEMORY/RIDDLE/RIDDLE.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-trash-explorer:Open trash explorer": false
+    }
+  },
+  "active": "dc6a95b26055701d",
+  "lastOpenFiles": [
+    "0. ARCHIVE/Character Ideas.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/SCP FOUNDATION/SCP FOUNDATION.md",
+    "ENGLISH/SPEARHEAD/MEDIA/MEDIA.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/DICTIONARY/DICTIONARY.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/GLITCH/MURDER DRONES/MURDER DRONES.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/GLITCH/MURDER DRONES",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/GLITCH/GLITCH.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/STUDIO GHIBLI/SPIRITED AWAY/SPIRITED AWAY.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/STUDIO GHIBLI/STUDIO GHIBLI.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/STUDIO GHIBLI/SPIRITED AWAY",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/GLITCH",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/STUDIO GHIBLI",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/0. HYPERCROSS：ZERO/ULTIMATE REALITY/ULTIMATE REALITY.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/0. HYPERCROSS：ZERO/0. HYPERCROSS：ZERO.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/DREAM GIRL/HYPER−REALITY/HYPER−REALITY.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/DREAM GIRL/DREAM GIRL.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/COCKROACH GIRL/COCKROACH GIRL.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/BIZARRE ALIEN LEGACY/BIZARRE ALIEN LEGACY.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/AMBROSE BIERCE： An Inhabitant of Carcosa/AMBROSE BIERCE： An Inhabitant of Carcosa.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/ALIEN ASSIMILATION/ALIEN ASSIMILATION.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/A/A.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/0. MEMORY.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/NEVERBORN × EVERBORN 『NV／EV』.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/1. HYPERCROSS：ONE/UCHI & DITTO/EVERYBODY LOVES A VILLAIN/EVERYBODY LOVES A VILLAIN.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/1. REALITY/THE ROCK HARD GLADIATOR/THE ROCK HARD GLADIATOR.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/1. HYPERCROSS：ONE/UCHI & DITTO/DOKI DOKI VILLAIN GO〜！！/DOKI DOKI VILLAIN GO〜！！.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/1. HYPERCROSS：ONE/UCHI & DITTO/UCHI & DITTO.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』/1. HYPERCROSS：ONE/TWIST × UNRAVEL/TWIST × UNRAVEL.md",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/1. REALITY/RICE/Untitled.base",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/1. REALITY/RICE",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/1. REALITY/UNSTRUNG",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/1. REALITY/THE WORLD TREE",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/1. REALITY/THE ROCK HARD GLADIATOR",
+    "ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/1. REALITY/THE CLASH OF IMPERIALS",
+    "Untitled.canvas"
+  ]
+}
