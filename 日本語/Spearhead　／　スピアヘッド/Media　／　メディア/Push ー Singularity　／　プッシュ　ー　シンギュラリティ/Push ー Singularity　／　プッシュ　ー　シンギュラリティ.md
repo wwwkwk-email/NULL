@@ -24,3 +24,4 @@
 - [[Spirit Realm Idiots　／　霊界のバカ]]
 - [[Our Cynosure　／　アウア シノシュア]]
 - [[Onimai：I'm Now Your Sister!　／　お兄ちゃんはおしまい!]]
+- [[Junji Ito　／　伊藤潤二]]
