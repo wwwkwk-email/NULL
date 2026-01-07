@@ -35,8 +35,7 @@
               "title": "LICENSE"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +119,8 @@
         "state": {
           "type": "trash-explorer",
           "state": {},
-          "icon": "trash",
-          "title": "Trash explorer"
+          "icon": "lucide-ghost",
+          "title": "trash-explorer"
         }
       }
     ],
@@ -194,10 +193,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "be577eba5ad02068",
+  "active": "ce91233b04dbd0a6",
   "lastOpenFiles": [
-    "README.md",
     "LICENSE.md",
+    "README.md",
     "日本語/Spearhead　／　スピアヘッド/Spearhead　／　スピアヘッド.md",
     "日本語/Spearhead　／　スピアヘッド/Archive　／　アーカイブ/Archive　／　アーカイブ.md",
     "日本語/Spearhead　／　スピアヘッド/Media　／　メディア/Media　／　メディア.md",
