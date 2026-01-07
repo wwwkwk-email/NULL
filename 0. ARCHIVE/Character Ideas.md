@@ -8,7 +8,7 @@
 	- Bad Attitude 
 	- Good Attitude
 - Disorder
-- Mech (Emeraldseeker)
+- Emerald−Seeker（Mech）
 - Number 6
 
 Singularity 
@@ -86,7 +86,7 @@ Singularity
 - Metal
 - Mecha
 - Auto
-- 
+
 - Scarlet/Virtue/Sin
 - Sera/Sarah/Seraphim
 - Thrones
@@ -99,7 +99,7 @@ Singularity
 	- Loss/Decay
 	- Entropy/Disorder
 	- Chaos/Chaos
-- Velvet V'scara
+- Velvet Viscera
 - Velvet's Big Brother
 - Piri
 - Domo (Dominion Devil)
@@ -112,7 +112,7 @@ Singularity
 - Celeste
 - Paraxicus
 - Witness of Celeste
-- Octavia Panopticon
+- Oktavia Panoptikon
 - Knowledge
 - Council Member 
 
@@ -143,7 +143,7 @@ AV
 - Kaci (Casey / KC)
 - Teri / Casey's Wife
 	- Time Pierce Her (Time Piercer)
-	- Rip Her
+	- Rip Her（Ripper）
 	- Tare
 - Andrei Potch
 - John (Evil John)
@@ -156,8 +156,8 @@ AV
 - Amber (The Silent)
 - Lorra (The Young)
 - Fae Fate Taffae (Time-Skipper)
-	- A mage. She's like Ralsei.
-	- alt. name: Fey Feight Taffae
+	- A MAGE. SHE'S LIKE RALSEI.
+	- Alt. Name: Fey Feight Taffae
 - Liam
 - Jester Mother
 - Missing Father
@@ -170,13 +170,13 @@ Spirit Realm Skirmish
 - Swamp Girl
 
 - May Fleecoy
-	- The opposite of Gudson Gore.
+	- The Opposite of Gudson Gore.
 - Monika
 - Memo
 	- Daycare Attendant
 	- Origami Cat
-- Military Guy who goes Rogue, Renegade even.
-- Aggressive ROBOT who likes dressing and talking like a lady 
+- Military Guy Who Goes Rogue, Renegade Even.
+- Aggressive Robot Who Likes Dressing and Talking Like a Lady 
 - Scientist With Dead Daughter 
 - Dead Daughter
 
@@ -194,15 +194,15 @@ Spirit Realm Skirmish
 - Beam
 - KK
 
-- Ruxy The Caｔ
-	- His mother
+- Ruxy The Cat
+	- His Mother
 - BZK/BSK
 - BZL (Lord of the Flies)
 - VX (Emperor of the Planet of Golden Fields)
 - Golden Flower Mother
 - Cruel Father
 - Pink Cyborg Cat Whose Name I Forgot
-	- Her caretaker
+	- Her Caretaker
 - Cheyney
 - Chrysalis
 - Red Flower Hatted Scientist Lady（Mary）
@@ -229,7 +229,7 @@ Beneath the Weeping Sea
 - Rococo (Pestilence)
 - Harriet E. Carrie
 - White Rabbit
-- The Rat
+- The Rat King
 - The Shadow Cat
 - The Red Roach
 - SSX (Snake Angel)
