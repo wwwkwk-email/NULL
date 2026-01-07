@@ -8,7 +8,7 @@
 	- Bad Attitude 
 	- Good Attitude
 - Disorder
-- Emerald−Seeker（Mech）
+- Mech（Emerald−Seeker）
 - Number 6
 
 Singularity 
@@ -99,7 +99,7 @@ Singularity
 	- Loss/Decay
 	- Entropy/Disorder
 	- Chaos/Chaos
-- Velvet Viscera
+- Velvet V'scera
 - Velvet's Big Brother
 - Piri
 - Domo (Dominion Devil)
@@ -156,7 +156,7 @@ AV
 - Amber (The Silent)
 - Lorra (The Young)
 - Fae Fate Taffae (Time-Skipper)
-	- A MAGE. SHE'S LIKE RALSEI.
+	- A Mage. She's Like Ralsei.
 	- Alt. Name: Fey Feight Taffae
 - Liam
 - Jester Mother
