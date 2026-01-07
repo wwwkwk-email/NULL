@@ -147,7 +147,7 @@ AV
 	- Tare
 - Andrei Potch
 - John (Evil John)
-	- JJJ (Jo Jux Jlan)
+	- JJJ
 - Diver Alien (1)
 - Generic Demon
 - The Red Angel
@@ -160,7 +160,7 @@ AV
 	- Alt. Name: Fey Feight Taffae
 - Liam
 - Jester Mother
-- Missing Father
+- Absent Father
 - Cats
 - Mother Cat
 - Slick Cat Guy
