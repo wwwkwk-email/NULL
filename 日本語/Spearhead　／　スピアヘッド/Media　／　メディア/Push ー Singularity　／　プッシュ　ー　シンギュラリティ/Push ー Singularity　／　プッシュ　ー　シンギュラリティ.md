@@ -42,4 +42,5 @@
 - [[Tremble Tales　／　トレンブル・テールス]]
 - [[Rice　／　ライス]]
 - [[Writer's Keep　／　ライターズ・キープ]]
-- [[Determination　／　デターミネィション]]
+- [[Determination　／　ディタミネーション]]
+- [[AI Singularity　／　AI・シングレラティ]]
