@@ -1,2 +1,2 @@
 [[Ravenspire　／　大鴉スパイア]]
-[[Ravensink]]
+[[Ravensink　／　大鴉シンク]]
