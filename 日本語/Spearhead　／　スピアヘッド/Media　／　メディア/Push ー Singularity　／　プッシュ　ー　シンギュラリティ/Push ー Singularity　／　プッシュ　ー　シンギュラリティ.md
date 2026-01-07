@@ -27,4 +27,4 @@
 - [[Junji Ito　／　伊藤潤二]]
 - [[Toby Fox　／　トビー・フォックス]]
 - [[Scott Cawthon　／　スコット・コーソン]]
-- [[Joel Guerra]]
+- [[Joel Guerra　／　ジョエル・ゲラ]]
