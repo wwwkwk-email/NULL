@@ -52,8 +52,6 @@ Singularity
 - Tea
 - Vintage/The Long Quiet
 - Novelty/The Shifting Mound
-- 
-
 
 - Rikako
 - Shōgō
@@ -196,7 +194,7 @@ Spirit Realm Skirmish
 - Beam
 - KK
 
-- Ruxy The Cat Replacement
+- Ruxy The Caｔ
 	- His mother
 - BZK/BSK
 - BZL (Lord of the Flies)
@@ -207,7 +205,7 @@ Spirit Realm Skirmish
 	- Her caretaker
 - Cheyney
 - Chrysalis
-- Red Flower Hatted Scientist Lady
+- Red Flower Hatted Scientist Lady（Mary）
 - Slime Queen
 - B
 - G
@@ -225,7 +223,7 @@ Starhunter: Revengeance
 - Hank Himself
 
 The Weeping Sea
-Claus & May
+- Claus & May
 
 Beneath the Weeping Sea
 - Rococo (Pestilence)
