@@ -1,9 +1,9 @@
 {
-  "accentColor": "#9e0000",
-  "theme": "moonstone",
+  "accentColor": "#ff0000",
+  "theme": "obsidian",
   "baseFontSize": 16,
-  "cssTheme": "W95",
+  "cssTheme": "Blue Topaz",
   "baseFontSizeAction": false,
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "",
   "textFontFamily": ""
 }
