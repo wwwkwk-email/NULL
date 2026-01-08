@@ -1,11 +1,12 @@
 - [[0. THE AMAZING DIGITAL CIRCUS：ZERO]]
 - [[1. THE AMAZING DIGITAL CIRCUS：ONE]]
+- [[UADC]]
 
 - CAINE：The Ringmaster 
 - BUBBLE：The Bubble
 - KINGER：The King
 - JAX：The Rabbit
-- RAGATHA：The Ragdoll
+- RAGATHA：The Doll
 - GANGLE：The Mask
 - ZOOBLE：The Toybox Character 
 - KAUFMO

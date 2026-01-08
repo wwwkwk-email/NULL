@@ -239,6 +239,6 @@ Rococo & Harriet
 - Pure Harriet
 
 PARADISE LIES...
-- Cl
+- Claws
 - Minnie
 - Jackie

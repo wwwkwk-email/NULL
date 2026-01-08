@@ -2,7 +2,7 @@
   "syncFolderName": false,
   "ctrlKey": true,
   "altKey": false,
-  "hideFolderNote": true,
+  "hideFolderNote": false,
   "templatePath": "",
   "autoCreate": true,
   "autoCreateFocusFiles": true,
@@ -62,7 +62,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "file_explorer",
   "supportedFileTypes": [
     "md",
     "canvas",
