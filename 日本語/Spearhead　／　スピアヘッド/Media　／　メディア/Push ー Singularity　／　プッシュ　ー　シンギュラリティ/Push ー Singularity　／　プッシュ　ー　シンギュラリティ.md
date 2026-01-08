@@ -11,7 +11,7 @@
 - [[The Girl Who Calls Herself God　／　神と名乗る少女]]
 - [[Raven Daze　／　大鴉デイズ]]
 - [[Altered Velocity　／　アルタード・ベロシティ]]
-- [[STAR−HUNTER：Revengeance　／　スターハンター リベンジェンス]]
+- [[Star-Hunter：Revengeance　／　スターハンター リベンジェンス]]
 - [[KATRINA：God of Sleep & Dreams　／　カトリーナ：眠りと夢のゴッド]]
 - [[DREAM GIRL：Hyper−Reality　／　ドリームガール：ハイパーリアリティー]]
 - [[Neutralis　／　ニュートラリス]]
@@ -52,3 +52,4 @@
 - [[Tainted Stars　／　テインテッド・スターズ]]
 - [[Endless Unmaker　／　エンドレス・アンメーカー]]
 - [[Silentroom　／　サイレントルーム]]
+- [[Hyper Light Drifter]]
