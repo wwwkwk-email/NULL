@@ -7,3 +7,4 @@
 - [[Singularity　／　特異点]]
 - [[Fiction　／　フィクション]]
 - [[Archive　／　アーカイブ]]
+- [[Internet　／　インターネット]]
